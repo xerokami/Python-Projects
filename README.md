@@ -1,2 +1,2 @@
 # Python-Projects
-Based on - https://github.com/karan/Projects
+Project ideas provided by - https://github.com/karan/Projects
